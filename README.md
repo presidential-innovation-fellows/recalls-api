@@ -1,6 +1,8 @@
 # Recalls API
 A unified API for cross-agency recall data.
 
+Please see the [wiki](https://github.com/presidential-innovation-fellows/recalls-api/wiki) for details.
+
 ### Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
